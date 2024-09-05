@@ -18,3 +18,7 @@ Usage
 python dna_sequence_alignment.py
 ```
 3. The script reads two sequences, aligns them, and displays the optimal alignment.
+
+
+## Outpus
+The program prints out the mutations of the two sequences as well as the visual diagram of where these mutations are happening. 
