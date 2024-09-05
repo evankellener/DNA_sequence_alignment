@@ -22,3 +22,11 @@ python dna_sequence_alignment.py
 
 ## Outpus
 The program prints out the mutations of the two sequences as well as the visual diagram of where these mutations are happening. 
+
+Mutations output:
+
+![Mutations](images/mutations.png)
+
+Alignment Heatmap
+
+![Alignment Diagram](images/alignment_heatmap.png)
