@@ -14,10 +14,7 @@ This project is focused on performing DNA sequence alignment using the Needleman
 Usage
 1. Ensure you have Python installed.
 2. Run the dna_sequence_alignment.py script in your terminal:
-
-## Installation
-Install the required dependencies by running:
 ```markdown
 python dna_sequence_alignment.py
-
+```
 3. The script reads two sequences, aligns them, and displays the optimal alignment.
