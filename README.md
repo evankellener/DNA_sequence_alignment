@@ -27,6 +27,6 @@ The program prints out the mutations of the two sequences as well as the visual 
 
 ![Mutations](images/mutations.png)
 
-### Alignment Heatmap
+### Alignment Heatmap:
 
 ![Alignment Diagram](images/alignment_heatmap.png)
